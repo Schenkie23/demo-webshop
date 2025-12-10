@@ -3,7 +3,7 @@
 A simple Nicolas Cage shop demo application built with HTML, CSS, and JavaScript. This project serves as a demonstration application for AI agent workshops and testing purposes.
 
 <div align="center">
-  <img src="./img/nicolas-cage-logo.png" alt="Nicolas Cage Shop" width="400" height="auto" />
+  <img src="img/nicolas-cage-logo.jpg" alt="Nicolas Cage Shop" width="400" height="auto" />
 </div>
 
 ## Features
@@ -44,7 +44,7 @@ nicolas-cage-shop/
 ├── shop.js                 # JavaScript functionality
 ├── img/                    # Image assets
 │   ├── nicolas-cage-logo.png
-│   └── basket-icon.png
+│   └── basket-icon.jpg
 └── README.md               # This file
 ```
 
