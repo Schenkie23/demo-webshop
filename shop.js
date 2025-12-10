@@ -1,7 +1,5 @@
 const PRODUCTS = {
-  apple: { name: "Apple", emoji: "🍏" },
-  banana: { name: "Banana", emoji: "🍌" },
-  lemon: { name: "Lemon", emoji: "🍋" },
+  "nicolas-cage": { name: "Nicolas Cage", emoji: "🧔" },
 };
 
 function getBasket() {
