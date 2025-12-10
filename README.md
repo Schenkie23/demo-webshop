@@ -1,15 +1,15 @@
-# Demo Webshop
+# The Nicolas Cage Shop
 
-A simple fruit shop demo application built with HTML, CSS, and JavaScript. This project serves as a demonstration application for AI agent workshops and testing purposes.
+A simple Nicolas Cage shop demo application built with HTML, CSS, and JavaScript. This project serves as a demonstration application for AI agent workshops and testing purposes.
 
 <div align="center">
-  <img src="./img/fruit-shop-logo.png" alt="Fruit Shop" width="400" height="auto" />
+  <img src="./img/nicolas-cage-logo.png" alt="Nicolas Cage Shop" width="400" height="auto" />
 </div>
 
 ## Features
 
-- 🍏 **Product Catalog**: Browse fresh fruits (Apple, Banana, Lemon)
-- 🛒 **Shopping Cart**: Add items to basket and manage your order
+- 👤 **Product Catalog**: Browse Nicolas Cage
+- 🛒 **Shopping Cart**: Add Nicolas Cage to basket and manage your order
 
 ## Usage
 
@@ -30,20 +30,20 @@ This repository is specifically designed as a demo project for the following AI 
 
 1. Clone or download this repository
 2. Open `index.html` in your web browser
-3. Start shopping for fruits! 🍎
+3. Start shopping for Nicolas Cage! 👤
 
 ## Project Structure
 
 ```
-demo-webshop/
+nicolas-cage-shop/
 ├── index.html              # Main product listing page
 ├── basket.html             # Shopping cart page
 ├── checkout.html           # Checkout form page
-├── product-*.html          # Individual product pages
+├── product-*.html          # Individual Nicolas Cage pages
 ├── style.css               # Main stylesheet
 ├── shop.js                 # JavaScript functionality
 ├── img/                    # Image assets
-│   ├── fruit-shop-logo.png
+│   ├── nicolas-cage-logo.png
 │   └── basket-icon.png
 └── README.md               # This file
 ```
@@ -57,4 +57,4 @@ demo-webshop/
 
 ---
 
-_This demo webshop is part of the AI agent workshop series. Check out the workshop repositories for hands-on learning with AI agents and automation tools._
+_This Nicolas Cage shop demo is part of the AI agent workshop series. Check out the workshop repositories for hands-on learning with AI agents and automation tools._
